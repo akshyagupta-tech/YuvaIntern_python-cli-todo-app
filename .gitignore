@@ -2,3 +2,7 @@ __pycache__/
 *.py[cod]
 .DS_Store
 *.json
+*.lock
+*.tmp
+.coverage
+.coverage.*
